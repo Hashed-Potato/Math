@@ -1,5 +1,6 @@
+# macOS
 .DS_Store
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache/
+
+# Obsidian local settings, workspace state, and plugins
+.obsidian/
 .trash/
